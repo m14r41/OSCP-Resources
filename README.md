@@ -1,5 +1,5 @@
-# OSCP-Resources
+# Exam-Resources
 
 
-## In this repository have collected latest socp resources.
+## In this repository have collected latest for various exam resources.
 
