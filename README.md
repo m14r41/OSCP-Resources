@@ -15,6 +15,7 @@
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | PentestDiaries Vulnhub | [30 Machines](https://www.youtube.com/watch?v=NXkGmSjIdtw&list=PLa1NVzrmWk35nFJBKW5n0gFgRhEW1Gf17&ab_channel=PentestDiaries) |
 | TjNull Youtube         | [OSCP Playlist](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf " Open")                               |
+| NetSecFocus Trophy Room | [Big List Excel](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)          |
 
 
 ## 1. Articles Guide
